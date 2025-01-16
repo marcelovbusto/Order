@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\Order\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610ECFDA-EA1C-4320-8BFB-A021A2A05FAA}|Application.Orders.UnitTests\\Application.Orders.UnitTests.csproj|c:\\users\\lucas\\source\\repos\\order\\application.orders.unittests\\create\\createordercommandhandlerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610ECFDA-EA1C-4320-8BFB-A021A2A05FAA}|Application.Orders.UnitTests\\Application.Orders.UnitTests.csproj|solutionrelative:application.orders.unittests\\create\\createordercommandhandlerunittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|c:\\users\\lucas\\source\\repos\\order\\application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|solutionrelative:application\\common\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\extensions\\migrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|c:\\users\\lucas\\source\\repos\\order\\application\\orders\\create\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|solutionrelative:application\\orders\\create\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|c:\\users\\lucas\\source\\repos\\order\\application\\orders\\update\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|solutionrelative:application\\orders\\update\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|c:\\users\\lucas\\source\\repos\\order\\domain\\entities\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\presentationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\presentationassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\middlewares\\globlalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\middlewares\\globlalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas\\source\\repos\\order\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas\\source\\repos\\order\\infrastructure\\persistence\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas\\source\\repos\\order\\infrastructure\\persistence\\configuration\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configuration\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|c:\\users\\lucas\\source\\repos\\order\\infrastructure\\persistence\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBC995-4CA0-4ACC-82CD-E0DB48A1AB8A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|c:\\users\\lucas\\source\\repos\\order\\domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|c:\\users\\lucas\\source\\repos\\order\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|c:\\users\\lucas\\source\\repos\\order\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2BE555C-F056-44F8-B48E-D0DCCF9CEA96}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|c:\\users\\lucas\\source\\repos\\order\\store\\store.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{311B0A25-67FA-4AEE-89CD-C6B72CAEFA1B}|Store\\Store.API.csproj|solutionrelative:store\\store.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|c:\\users\\lucas\\source\\repos\\order\\domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC54F67-038A-4042-854E-02852D0F5ED2}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrderCommandHandlerUnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Application.Orders.UnitTests\\Create\\CreateOrderCommandHandlerUnitTests.cs",
+              "RelativeDocumentMoniker": "Application.Orders.UnitTests\\Create\\CreateOrderCommandHandlerUnitTests.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Application.Orders.UnitTests\\Create\\CreateOrderCommandHandlerUnitTests.cs",
+              "RelativeToolTip": "Application.Orders.UnitTests\\Create\\CreateOrderCommandHandlerUnitTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:48:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Application\\Common\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:23:34.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MigrationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Extensions\\MigrationExtensions.cs",
+              "RelativeDocumentMoniker": "Store\\Extensions\\MigrationExtensions.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Extensions\\MigrationExtensions.cs",
+              "RelativeToolTip": "Store\\Extensions\\MigrationExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:18:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:09:00.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Store\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\appsettings.Development.json",
+              "RelativeToolTip": "Store\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T17:41:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Store\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\appsettings.json",
+              "RelativeToolTip": "Store\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T17:41:11.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:28:52.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:15:00.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderId.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Entities\\OrderId.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OrderId.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Entities\\OrderId.cs",
+              "RelativeToolTip": "Domain\\Entities\\OrderId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:14:51.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:14:31.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\Orders\\Update\\UpdateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\Update\\UpdateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\Orders\\Update\\UpdateOrderCommandHandler.cs",
+              "RelativeToolTip": "Application\\Orders\\Update\\UpdateOrderCommandHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:35:01.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "Application\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:34:06.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configuration\\OrderConfiguration.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:32:34.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configuration\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:31:28.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:28:04.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:23:02.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PresentationAssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\PresentationAssemblyReference.cs",
+              "RelativeDocumentMoniker": "Store\\PresentationAssemblyReference.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\PresentationAssemblyReference.cs",
+              "RelativeToolTip": "Store\\PresentationAssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:22:46.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependecyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\DependecyInjection.cs",
+              "RelativeDocumentMoniker": "Store\\DependecyInjection.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\DependecyInjection.cs",
+              "RelativeToolTip": "Store\\DependecyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:21:50.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GloblalExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Middlewares\\GloblalExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Store\\Middlewares\\GloblalExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Middlewares\\GloblalExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Store\\Middlewares\\GloblalExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:20:20.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Store.API.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Store.API.csproj",
+              "RelativeDocumentMoniker": "Store\\Store.API.csproj",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Store\\Store.API.csproj",
+              "RelativeToolTip": "Store\\Store.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T05:18:57.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Order\\Domain\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "Domain\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:52:03.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

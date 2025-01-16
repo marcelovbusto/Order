@@ -1,0 +1,36 @@
+C:\Users\lucas\source\repos\Loja\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\lucas\source\repos\Loja\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\lucas\source\repos\Loja\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\lucas\source\repos\Loja\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\lucas\source\repos\Order\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\lucas\source\repos\Order\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\lucas\source\repos\Order\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\lucas\source\repos\Order\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\marce\OneDrive\Área de Trabalho\Order\Domain\obj\Debug\net8.0\ref\Domain.dll
